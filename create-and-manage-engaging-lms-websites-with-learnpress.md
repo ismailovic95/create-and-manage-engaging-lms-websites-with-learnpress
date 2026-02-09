@@ -1,4 +1,4 @@
-# Create and Manage Engaging LMS Websites with LearnPress topics
+# Create and Manage Engaging LMS Websites with LearnPress
 
 > This course is a detailed and easy tutorial to get you all setup and going with the use of LearnPress LMS Plugin.
 
