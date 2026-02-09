@@ -1,4 +1,4 @@
-# Create and Manage Engaging LMS Websites with LearnPress 5
+# Create and Manage Engaging LMS Websites with LearnPress
 
 > This course is a detailed and easy tutorial to get you all setup and going with the use of LearnPress LMS Plugin.
 
@@ -26,4 +26,4 @@ Mycomponent	class	[class]/MyComponentClass	method	Function alert($myAlert : Text
 Mycomponent	class	[class]/MyComponentClass	method	ALERT($myAlert)	2
 ```
 
-![](http://local-learn.4d.com/images/Capture-decran-2025-12-03-154009-768x494.png)
+![](https://blog.4d.com/wp-content/uploads/2025/11/Capture-decran-2025-12-03-154009-768x494.png)
